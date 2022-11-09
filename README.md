@@ -1,3 +1,5 @@
 # crimePipe
 Python data pipeline to stream and analyse Chicago Crime data in real time
-![My Image](Screenshot 2022-06-29 at 11.09.39.png)
+
+
+<img width="915" alt="systemDesign" src="https://user-images.githubusercontent.com/73833016/200835953-f227c8d7-7a09-4919-a996-0b55619b876d.png">
